@@ -2,7 +2,7 @@
 
 under /throttletool/src/main/java
 
-**Class: com.clsa.codingtest.throttletool.MarketData**
+**Class: com.clsa.codingtest.throttletool.datamodel.MarketData**
 
 Data structure of market data, including all attributes, getters and a constructor by fields
 
