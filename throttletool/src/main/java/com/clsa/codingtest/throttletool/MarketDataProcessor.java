@@ -1,6 +1,5 @@
 package com.clsa.codingtest.throttletool;
 
-import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
